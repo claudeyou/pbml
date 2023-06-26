@@ -1,5 +1,5 @@
 # PBML-assignment
-- READ PAPER.pdf
+- READ PAPER_Filtering.pdf, PAPER_ML.pdf
 
 1. Analysis of Digital Image Processing Methods Using Various Filtering Techniques
 - Filter comparison, salt&pepper noise:60%
