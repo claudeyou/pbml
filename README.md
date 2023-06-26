@@ -8,5 +8,7 @@
 - Median: ![spmd_60](https://github.com/claudeyou/pbml/assets/129871387/24bb74b3-4c23-4600-aa2c-443d45b35b7c)
 - Proposed: ![PA_60](https://github.com/claudeyou/pbml/assets/129871387/34eb67c1-1b86-48d0-b51a-f11b9998823d)
 - PSNR: ![Spatial PSNR](https://github.com/claudeyou/pbml/assets/129871387/2928dff3-80f9-4747-be41-76e280ce4332)
+Look into PDF for the details
 
 2. Analysis of Machine Learning algorithms on Generated Datasets
+Look into PDF for the details
